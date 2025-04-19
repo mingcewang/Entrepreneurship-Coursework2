@@ -1,5 +1,7 @@
 Introduction 
+
 Part a and b
+
 Our business is focused on using Artificial Intelligence (AI) to help streamline the job market. We currently offer one product, an app called Part Time Job Matching. Our app uses an intelligent recommendation system based on reinforcement learning, to learn the job seekers preferences and behaviour to provide a more tailored job search process. Employers can also advertise on our app for no cost, and find suitable talent tailored for their roles.
 
 Our primary objectives with Part Time Job Matching are to help solve the big demand for part-time job opportunities in the UK, help employers find the right talent for a given role, and streamline the job seeking process for part time workers in the UK. In our business plan you will see how our product achieves all these objectives; with the way we have our designed our product. These objectives were a part of our philosophy when we were designing our product, and we believe our solution in its current form is the best way forward for both job seekers and employers. 
