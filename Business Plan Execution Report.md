@@ -77,7 +77,7 @@ This section illustrates how our system calculates a total value for each candid
 
 Our target is the combined value of the job to the user is calculated by combining the match between the job and the user's preferences (π) and the immediate and delayed rewards of the user for different behaviours of the job, this can be noted as:
 
-![gbq NPD 3v](https://i.ibb.co/WN8ZPc6D/Picture1.png)
+![equation 1](https://github.com/mingcewang/entrepreneurship-coursework2/blob/main/equation1.png?raw=true)
 
 The higher the “Total Value” means that this job is more attractive and potentially rewarding as a role for the user.
 
@@ -165,7 +165,7 @@ The main part of the system is a Q-learning framework, the Q-learning algorithm 
 
 + Our system uses a simplified Q- learning update equation: 
 
-![Picture2](https://i.ibb.co/YBh67Rdb/Picture2.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![equation 2](https://github.com/mingcewang/entrepreneurship-coursework2/blob/main/equation2.png?raw=true)
 + Q old is the existing Q-value for a given pair (state and action pair).
 + r is the instant reward received from the user’s interaction. For example, 0.5 for applying to a job.
 + α (learning rate) determines how quickly new information overrides the old evaluation.
@@ -191,11 +191,13 @@ Overall, our product combines precise information extraction methods with adapti
 The part time recruitment space in the UK is still dominated by large, horizontal job boards such as Indeed and Reed, together with professional networking sites like LinkedIn. All three list casual roles, yet their platforms were built around full time vacancies and permanent careers. Jobseekers therefore spend excessive time filtering out irrelevant ads, while small and medium sized employers shoulder rising fees for sponsored visibility or access to CV databases. More importantly, these incumbents continue to rely on static keyword matching or broad machine learning profiles. They do not learn dynamically from each click, chat, interview or completed shift, and none of them enforces a mandatory two way verification process to weed out scams or “ghost” employers.  
 Our entire product is designed around short hours and flexible shift work—precisely the segment most used by students, parents returning to work and hospitality or retail SMEs. Because we cater only to this niche, every screen, metric and algorithm is optimised for it; there is no full time clutter and therefore no wasted attention.  
 
-In practical terms that USP rests on four pillars:  
-Laser focus on the segment. By excluding full time roles entirely, the app shows seekers only genuinely relevant opportunities and gives employers a concentrated talent pool rather than the usual fire hose of unsuitable applicants.  
-Adaptive reinforcement learning ranking. Each view, save, application, interview and completed shift feeds immediate or delayed reward signals into the model, which then orders listings in real time. The result is continuously improving precision that static keyword filters cannot match.  
-End to end trust loop. Job seekers complete ID/KYC checks; employers are cross referenced automatically against Companies House, and all in app conversations are escrow logged to simplify dispute resolution. This dual verification sharply reduces the fraud and spam that plague mainstream boards.   
-Predictable, low entry cost. A flat £10 per month subscription gives job seekers full access to matching and messaging features. Unlike the pay per placement or premium visibility charges common on incumbent sites, our pricing is transparent and acceptable to roughly sixty percent of the target audience. For employers, posting a vacancy after verification is free, removing a major barrier for local SMEs that struggle with recruitment budgets.  
+In practical terms our unique selling proposition rests on four pillars:  
+
++ Laser focus on the segment. By excluding full time roles entirely, the app shows seekers only genuinely relevant opportunities and gives employers a concentrated talent pool rather than the usual fire hose of unsuitable applicants.  
++ Adaptive reinforcement learning ranking. Each view, save, application, interview and completed shift feeds immediate or delayed reward signals into the model, which then orders listings in real time. The result is continuously improving precision that static keyword filters cannot match. 
++ End to end trust loop. Job seekers complete ID/KYC checks; employers are cross referenced automatically against Companies House, and all in app conversations are escrow logged to simplify dispute resolution. This dual verification sharply reduces the fraud and spam that plague mainstream boards.   
++ Predictable, low entry cost for businesses. A flat £10 per month subscription gives job seekers full access to matching and messaging features. For employers, posting a vacancy after verification is free, removing a major barrier for local SMEs that struggle with recruitment budgets. Unlike the pay per placement or premium visibility charges common on incumbent sites, our pricing is transparent and acceptable for most of the target audience.
+
 By combining trust, hyper personalisation and a part time only catalogue, Part Time Match offers clear, concrete reasons for both job seekers and employers to switch.  
 
 Part Time Job Matching aims to streamline the job market for both businesses and job seekers and help remedy the issues that both sides face when operating in the market. Our product is considered ‘high risk’ by the government for its usage of AI, but it operates fairly within current UK legislation, and we will continue to ensure it operates fairly for businesses that reside in other parts of the world but also operate in the UK.
