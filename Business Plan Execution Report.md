@@ -7,10 +7,12 @@ Jordan okene jeoo20@bath.ac.uk
 Bin Wang bw985@bath.ac.uk  
 Kairui Yang ky478@bath.ac.uk  
 
-Prototype link:https://entrepreneurship-hru0.onrender.com
+Prototype link: https://entrepreneurship-hru0.onrender.com
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![part%20time%20job%20matching%20logo%20resized](https://github.com/mingcewang/entrepreneurship-coursework2/blob/main/part%20time%20job%20matching%20logo%20resized.png?raw=true)
 
 
-Our business Flexmatch is focused on using Artificial Intelligence (AI) to help streamline the part time job market. We currently offer one product, an app called Part Time Job Matching. Our app uses an intelligent recommendation system based on reinforcement learning, to learn the job seekers preferences and behaviour to provide a more tailored job search process. Employers can also advertise on our app for no cost, and find suitable talent tailored for their roles.
+Our business Flexmatch is focused on using Artificial Intelligence (AI) to help streamline the part time job market. We currently offer one product, an app called Part Time Job Matching the logo is shown above. Our app uses an intelligent recommendation system based on reinforcement learning, to learn the job seekers preferences and behaviour to provide a more tailored job search process. Employers can also advertise on our app for no cost, and find suitable talent tailored for their roles.
 
 Our primary objectives with Part Time Job Matching are to help solve the big demand for part-time job opportunities in the UK, help employers find the right talent for a given role, and streamline the job seeking process for part time workers in the UK. In our business plan you will see how our product achieves all these objectives; with the way we have our designed our product. These objectives were a part of our philosophy when we were designing our product, and we believe our solution in its current form is the best way forward for both job seekers and employers. 
 
